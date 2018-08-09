@@ -1,2 +1,2 @@
 # Springboard
-Data science scripts and codes
+Data science capstone project and assignments scripts.
