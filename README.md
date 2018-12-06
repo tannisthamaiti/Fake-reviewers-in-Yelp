@@ -1,4 +1,4 @@
-# The Springboard repository is a collection of variety of codes based on projects done in Springboard Bootcamp. The contents in this repository is presented in the table.
+# The contents in this repository is presented in the table.
 |Sl| Exercise|Github Links| 
 |:---|:---|:---|
 | 1|JSON Data Wrangling| [Code for JSON Data Wrangling](https://github.com/tannisthamaiti/Springboard/blob/master/data_wrangling_json.ipynb)|
