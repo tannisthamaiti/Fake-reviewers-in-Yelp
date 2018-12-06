@@ -1,5 +1,5 @@
 # Springboard
-This repository is a collection of variety of codes based on projects done in Springboard Bootcamp. The contents in this repository is presented in the table.
+##This repository is a collection of variety of codes based on projects done in Springboard Bootcamp. The contents in this repository is presented in the table.
 <br>
 |Sl| Exercise|Github Links| 
 |:---|:---|:---|
