@@ -1,5 +1,4 @@
 # Springboard
-# Springboard
 |Sl| Date|Module |Exercise|Github Links| 
 |:---|:---|:---:|:---|:---|
 | 1|12-29-2017|5.2|JSON Data Wrangling| [Code for JSON Data Wrangling](https://github.com/tannisthamaiti/Springboard/blob/master/data_wrangling_json.ipynb)|
